@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Girish Chandwani</h1>
 <h3 align="center">A passionate AI Engineer</h3>
-👩🏻‍💻 Passionate developer experienced in Advanced Java, AI/ML<br/>
+👩🏻‍💻 Passionate developer experienced in AI/ML<br/>
 👩🏻‍🎓 Currently pursuing BTECH (Hons) in AIML from Chandigarh University, Gharuan<br/>
 🔬 Currently engaged in the DiabeteXpert project, employing AI to advance diabetic radiopathology diagnostics and treatment.
 
